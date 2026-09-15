@@ -1,0 +1,11 @@
+{
+  "slug": "microgame-tx",
+  "name": "Microgame TX",
+  "kind": "art",
+  "description": "Package a tiny HTML game, rules, and provenance as a transaction-sized artifact.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
