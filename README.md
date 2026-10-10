@@ -1,5 +1,10 @@
 # Microgame TX
 
+<!-- three.ws:badges -->
+[![GitHub stars](https://img.shields.io/github/stars/nirholas/microgame-tx?style=flat&logo=github)](https://github.com/nirholas/microgame-tx/stargazers) [![Last commit](https://img.shields.io/github/last-commit/nirholas/microgame-tx?style=flat)](https://github.com/nirholas/microgame-tx/commits) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat)](https://github.com/nirholas/microgame-tx/pulls) [![AI agent friendly](https://img.shields.io/badge/AI%20agents-AGENTS.md%20%2B%20llms.txt-6d5dfc?style=flat)](https://github.com/nirholas/microgame-tx/blob/HEAD/AGENTS.md)
+<!-- /three.ws:badges -->
+
+
 Package a tiny HTML game, rules, and provenance as a transaction-sized artifact.
 
 ## Why this exists
@@ -47,3 +52,26 @@ MIT
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nirholas/microgame-tx&type=Date)](https://www.star-history.com/#nirholas/microgame-tx&Date)
+
+<!-- three.ws:growth -->
+## Support the project
+
+If microgame-tx saves you time, **[star it on GitHub](https://github.com/nirholas/microgame-tx)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=microgame-tx%3A%20Package%20a%20tiny%20HTML%20game%2C%20rules%2C%20and%20provenance%20as%20a%20transaction-sized%20artifact&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmicrogame-tx) · [Share on Bluesky](https://bsky.app/intent/compose?text=microgame-tx%3A%20Package%20a%20tiny%20HTML%20game%2C%20rules%2C%20and%20provenance%20as%20a%20transaction-sized%20artifact%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fmicrogame-tx) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmicrogame-tx) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmicrogame-tx&t=microgame-tx%3A%20Package%20a%20tiny%20HTML%20game%2C%20rules%2C%20and%20provenance%20as%20a%20transaction-sized%20artifact) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fmicrogame-tx&title=microgame-tx%3A%20Package%20a%20tiny%20HTML%20game%2C%20rules%2C%20and%20provenance%20as%20a%20transaction-sized%20artifact)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/microgame-tx` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/microgame-tx/issues) or [start a discussion](https://github.com/nirholas/microgame-tx/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/microgame-tx)](https://github.com/nirholas/microgame-tx/graphs/contributors)
+
+<!-- /three.ws:growth -->

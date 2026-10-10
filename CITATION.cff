@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "microgame-tx"
+abstract: "Package a tiny HTML game, rules, and provenance as a transaction-sized artifact."
+repository-code: "https://github.com/nirholas/microgame-tx"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
