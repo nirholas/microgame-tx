@@ -8,7 +8,7 @@ Package a tiny HTML game, rules, and provenance as a transaction-sized artifact.
 
 - Source: https://github.com/nirholas/microgame-tx
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
